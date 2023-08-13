@@ -1,0 +1,17 @@
+[
+    {
+        "eventId": "0df28e70-2483-4d02-8c67-20ffddbf27a0",
+        "eventType": 10,
+        "originSocialPersonaId": "863967b6-eecd-4601-a7c4-91b44ada475b",
+        "originPostHash": "0x14c2f1e5fececa327bb71beabc1c344072de04e4189e62e669c23194bcdbbc17",
+        "timestamp": 1691922210847,
+        "fileKeys": [
+            {
+                "timestamp": 1691922210852,
+                "fileName": "0x14c2f1e5fececa327bb71beabc1c344072de04e4189e62e669c23194bcdbbc17",
+                "storageContainerId": "eda21baf-d333-4b4b-9138-5505b5ba60c6",
+                "password": "9mhwgxm49te6vpss8dm8lay81j6nh7co"
+            }
+        ]
+    }
+]
